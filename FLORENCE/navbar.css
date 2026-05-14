@@ -1,0 +1,32 @@
+
+
+        .navbar ul{list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        
+            text-wrap: horizontal;
+            justify-content: space-between;
+            color:black;
+            
+            
+        }
+        .navbar li {
+            margin: 0;
+            color: black;
+        }
+        .navbar a {
+            display: block;
+            color: aliceblue;
+            text-decoration: left;
+            padding: 0px;
+            color: black;
+            
+            
+            
+            
+        }
+
+        .navbar a:hover{
+            background-color: white;
+        }
